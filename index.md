@@ -1,37 +1,58 @@
-## Welcome to GitHub Pages
+# Omega Financial Group Calculator
 
-You can use the [editor on GitHub](https://github.com/suppiero/OmegaFinancialCalculator/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Client Name
+---
 
-### Markdown
+## Date of Survey
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Age
+---
 
-```markdown
-Syntax highlighted code block
+## Experience
+---
 
-# Header 1
-## Header 2
-### Header 3
+## Portfolio Value
 
-- Bulleted
-- List
+---
 
-1. Numbered
-2. List
+## Desired Risk Approach
 
-**Bold** and _Italic_ and `Code` text
+|[Conservative](https://github.com/)|[Moderate](https://github.com/)|[Aggressive](https://github.com/)|
+|---|---|---|
+---
 
-[Link](url) and ![Image](src)
-```
+## Liquidity Needed
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+|[Expect to pull money your out in less than a year](https://github.com/)|[Expect to pull money your out in one to three years](https://github.com/)|[Expect to pull money your out in three to seven years](https://github.com/)|
+|---|---|---|
+---
 
-### Jekyll Themes
+## Acceptable Average Return
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/suppiero/OmegaFinancialCalculator/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+|[2%](https://github.com/)|[4%](https://github.com/)|[6%](https://github.com/)|[8%](https://github.com/)|[10%](https://github.com/)|[12%](https://github.com/)|[14%](https://github.com/)
+|---|---|---|---|---|---|---|
+---
 
-### Support or Contact
+## Maximum Loss
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+|[10%](https://github.com/)|[20%](https://github.com/)|[30%](https://github.com/)|[40%](https://github.com/)|[50%](https://github.com/)|[60%](https://github.com/)|[70%](https://github.com/)
+|---|---|---|---|---|---|---|
+---
+
+## Troubled By
+
+|[Losing Value](https://github.com/)|[Equally Concerned](https://github.com/)|[Losing High Returns](https://github.com/)|
+|---|---|---|
+---
+
+## Risk and Goal Tradeoff
+
+|[More Important to Meet Goals](https://github.com/)|[More Important to Reduce Portfolio Fluctuation](https://github.com/)
+|---|---|
+---
+
+## Recommended Portfolio
+---
