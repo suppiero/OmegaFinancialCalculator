@@ -1,2 +1,2 @@
 # OmegaFinancialCalculator
-A portfolio calculator for clients of the Omega Financial Group.
+An investment portfolio calculator for clients of the Omega Financial Group.
